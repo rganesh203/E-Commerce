@@ -1,2 +1,2 @@
 # E-Commerce
-E-Commerec Insights &amp; Dashboards
+Power BI Desktop Tool, E-Commerec Insights &amp; Dashboards
